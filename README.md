@@ -1,6 +1,12 @@
 # 311-Complaints
 Optimize Parking Regulations using 311 Complaints.
 
+
+Software: Tableau, Pentaho, Python
+
+Data source:
+https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-toPresent/erm2-nwe9
+
 Introduction:
 
 
